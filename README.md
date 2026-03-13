@@ -1,2 +1,6 @@
 # spekir-landing
-Spekir landing page and waitlist
+Spekir
+
+Decision intelligence for founders and leaders.
+
+Landing page for spekir.com
